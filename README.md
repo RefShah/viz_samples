@@ -1,6 +1,6 @@
 | Command | Description |
 | --- | --- |
-| git status | List all new or modified files\n abc |
+| git status | List all new or modified files<br> abc |
 | git diff | Show file differences that haven't been staged |
 
 |              | Header 1        | Header 2                       || Header 3                       ||
