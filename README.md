@@ -1,7 +1,12 @@
+<b>Power BI</b>
+| Project Title | Filename |
+| --- | --- |
+| Logistics Sankey Chart: Trans-shipment from Eastern Europe to Western Europe | 2021-06-22 02_06_10-Untitled - Power BI Desktop.png<br>  |
+
 <b>Python</b>
 | Project Title | Filename |
 | --- | --- |
-| Sankey Chart: Trans-shipment from Eastern Europe to Western Europe | 2021-06-22 00_42_56-notebook1d976739e8.png<br>  |
+| Logistics Sankey Chart: Trans-shipment from Eastern Europe to Western Europe | 2021-06-22 00_42_56-notebook1d976739e8.png<br>  |
 
 <b>Tableau</b>
 | Project Title | Filename |
