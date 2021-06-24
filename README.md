@@ -2,7 +2,7 @@
 | Project Title | Filename |
 | --- | --- |
 | Logistics Sankey Chart: Trans-shipment from Eastern Europe to Western Europe | 2021-06-22 02_06_10-Untitled - Power BI Desktop.png<br>  |
-| HR Sankey Chart: 1st Draft - Number of Courses no bearing upon Length of Service | 2021-06-24 19_39_55-try_sank1 - Power BI Desktop.png<br>  |
+| HR Sankey Chart: 1st Draft - Number of Courses have no bearing upon Length of Service | 2021-06-24 19_39_55-try_sank1 - Power BI Desktop.png<br>  |
 
 <b>Python</b>
 | Project Title | Filename |
