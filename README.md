@@ -8,6 +8,8 @@
 <b>Python</b>
 | Project Title | Filename |
 | --- | --- |
+| HR Sankey Chart1: Referral Hires are more likely to have high ratings | 2021-06-29 07_22_20-notebooka65ed335fc _ Kaggle.png<br>  |
+| HR Sankey Chart2: Hiring Source >> Qualifications >> Prev Year Rating | 2021-06-29 06_58_42-notebooka65ed335fc _ Kaggle.png<br>  |
 | Logistics Sankey Chart: Trans-shipment from Eastern Europe to Western Europe | 2021-06-22 00_42_56-notebook1d976739e8.png<br>  |
 
 <b>Tableau</b>
